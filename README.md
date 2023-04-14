@@ -2,7 +2,7 @@
 
 Content
  
-Idea : Jet fighter that has to destroy all the enimes 
+Idea :Jet fighter that has to destroy the enimes 
 
 Genre : shooting 
 
