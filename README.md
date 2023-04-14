@@ -14,7 +14,7 @@ Character(s) Enemies : we have 1 main jet that shoots, and many enimes jets
  
 Gameplay
  
-Game logic (Game difficulty) : the game becomes difficukt after destroying 10 jets
+Game logic (Game difficulty) : the game becomes difficult after destroying 10 jets, and if the enimes jet pases you then game over!
 
 Game mechanics (originality of game mechanics) : shooting , score points
 
