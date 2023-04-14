@@ -3,7 +3,9 @@
 Content
  
 Idea : Jet fighter that has to destroy all the enimes 
+
 Genre : shooting 
+
 Game world (originality of the game world) : (I don't understand what should I write here)
 
 Story (Levels) : while destroying the enimes, their speed becomes faster every 10 score, their speed becomes 2x
