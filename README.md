@@ -16,6 +16,6 @@
  
 ## Game logic (Game difficulty) : the game becomes difficult after destroying 10 jets, and if the enimes jet pases you then game over!
 
-Game mechanics (originality of game mechanics) : shooting , score points
+## Game mechanics (originality of game mechanics) : shooting , score points
 
-Game levels : still under review
+## Game levels : still under review
