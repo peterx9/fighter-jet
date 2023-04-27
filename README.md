@@ -3,7 +3,7 @@
 - language: `C#`
 - Genre: `2D` `Shooting` 
 ## Сюжет
-the main character is a flying jet, which have to kill shoot bullets at all the other jets.
+the main character is a flying jet, which have to shoot bullets at all the other jets.
 
 ## Игровой мир
 the game will have just one location which is the sky.
