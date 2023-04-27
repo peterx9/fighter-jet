@@ -24,3 +24,13 @@ while your score gets higher and higher the enimes speed also increases so the g
 
 ### weapons
 Types of weapons: `bullet` 
+
+### Characters
+We have our main jet and a lot of other enemy jets which is trying to attack
+
+## Game elements
+`Shooting`
+`Score`
+`Challenges`
+
+
