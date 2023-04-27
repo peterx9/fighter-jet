@@ -1,4 +1,6 @@
-
+## студенты
+-`Хабиб Петер`
+-`Гомаа Халид`
 ## Основное
 - language: `C#`
 - Genre: `2D` `Shooting` 
@@ -29,8 +31,8 @@ Types of weapons: `bullet`
 We have our main jet and a lot of other enemy jets which is trying to attack
 
 ## Game elements
-`Shooting`
-`Score`
-`Challenges`
+-`Shooting`
+-`Score`
+-`Challenges`
 
 
