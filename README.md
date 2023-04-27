@@ -1,21 +1,27 @@
-# fighter-jet
 
-### Content
- 
-## Idea :Jet fighter that has to destroy the enimes 
+## Основное
+- language: `C#`
+- Genre: `2D` `Shooting` 
+- 
+## Сюжет
+the main character is a flying jet, which have to kill shoot bullets at all the other jets.
 
-## Genre : shooting 
+## Игровой мир
+the game will have just one location which is the sky.
 
-## Game world (originality of the game world) : (I don't understand what should I write here)
+## Геймплей
+the game starts, your score is 0.
 
-## Story (Levels) : while destroying the enimes, their speed becomes faster every 10 score, their speed becomes 2x
+you can control the jet using the `keyboard arrows`, and shoot using `space`.
 
-## Character(s) Enemies : we have 1 main jet that shoots, and many enimes jets
- 
-### Gameplay
- 
-## Game logic (Game difficulty) : the game becomes difficult after destroying 10 jets, and if the enimes jet pases you then game over!
+the game target is collecting as much high score as you can.
 
-## Game mechanics (originality of game mechanics) : shooting , score points
+after shooting the other jets, the other jets gets destroyed and your score increase
 
-## Game levels : still under review
+### Game difficulty
+you might think the game is easy but it isn't, the game difficulty is increasing after scoring points (destroying other jets)
+
+while your score gets higher and higher the enimes speed also increases so the game becomes harder
+
+### weapons
+Types of weapons: `bullet` 
