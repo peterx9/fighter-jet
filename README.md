@@ -2,7 +2,6 @@
 ## Основное
 - language: `C#`
 - Genre: `2D` `Shooting` 
-- 
 ## Сюжет
 the main character is a flying jet, which have to kill shoot bullets at all the other jets.
 
