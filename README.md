@@ -34,5 +34,6 @@ We have our main jet and a lot of other enemy jets which is trying to attack
 - `Shooting`
 - `Score`
 - `Challenges`
-
+## The BackGround
+As I mentioned before there will be only one location and one background, which will be the `Sky` 
 
